@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class main {
     public static void main(String[] args) {
-
+        System.out.println("postav'te pyat' pojaluista");
     }
 }
 
